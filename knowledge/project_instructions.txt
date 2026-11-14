@@ -1,0 +1,213 @@
+AMERICAN UNIVERSITY OF SHARJAH 
+Fall 2026 College of Engineering NGN 110 (Professors Aqeel, Ahmed, Ming, Kamil, Karnail, Reham) 
+Term Project: Water Rocket launch 
+Important Deadlines 
+Project competition will be held on Sunday, November 15, 2026, from 3:30 to 5:30 pm 
+
+
+Section 
+2, 4, 6,8,18
+Section  
+10,12,14,16,20 
+Section 1,3,5,7,17 
+Section 
+9,11,13,15,19
+Progress Report 
+Sun 8/Nov/26 
+Sun 8/Nov/26 
+Sun 8/Nov/26 
+Sun 8/Nov/26
+Project Report 
+Sun 15/Nov/26 
+Sun 22/Nov/26 
+Tue 17/Nov/26 
+Tue 24/Nov/26
+Presentation 
+Mon 16/Nov/26 
+Mon 23/Nov/26 
+Wed 18/Nov/26 
+Wed 25/Nov/26
+
+
+
+All reports are due at 11:59 pm on the specified dates above and are to be submitted through  iLearn. No hard copies of any sort are needed for any report.  
+No late reports will be accepted, as the system will not allow late submissions.  
+WATER ROCKET + AI CHATBOT CHALLENGE 2026 Engineering Component: Design, build, test, and optimize a water rocket for the longest horizontal  distance. 
+AI/Computing Component: Design and develop a chatbot that explains and supports the team's  water rocket project. 
+1. Project Overview 
+As a team, you will work on the project described below. Teams are not permitted to select their  own project topic. 
+Each team is required to: 
+• Design and build a water rocket. 
+• Develop and test the rocket design. 
+• Prepare a technical report documenting the design, analysis, testing, and results. • Present the project findings to the class. 
+• Build and demonstrate a prototype water rocket. 
+• Participate in the Water Rocket Challenge 2026 at the end of the semester. The project encourages students to apply engineering principles, creativity, teamwork, and  sustainable design practices to develop a high-performance water rocket.
+
+
+
+2. Project Challenge 
+Design and Build a Water Rocket That Travels the Longest Horizontal Distance 
+Water Rocket Challenge 2026 
+The goal of this project is to design and build a water rocket that achieves the longest horizontal  distance while satisfying all competition requirements and safety guidelines. Teams are encouraged to use recycled, reusable, and sustainable materials wherever possible and to develop an efficient and innovative rocket design. 
+3. Competition Rules 
+3.1 Permitted Materials 
+The rocket structure may be constructed using any combination of the following materials. Teams  do not need to use all of the listed materials. 
+• Standard plastic soft-drink or water bottles, such as Pepsi, Miranda, Coca-Cola, Masafi, etc.,  of any volume 
+• Scotch tape 
+• Glue, including glue guns 
+• Staples 
+• Plastic sheets of any thickness 
+• Rubber bands of any size 
+• Straws 
+• Paper and cardboard 
+• Thread 
+• String 
+• Plastic bags 
+Teams may use any safe and non-hazardous materials for their rocket structure, including but not  limited to the materials listed above. All materials must be suitable for the application and must  comply with the safety requirements of the competition. The instructor reserves the right to prohibit  any material considered unsafe. 
+3.2 Rocket Dimensions 
+• The total length of the rocket structure must be less than 50 cm, measured from the nozzle  to the tip of the nose, as illustrated in Figure 1.
+2 | P a g e 
+• 
+  
+ 
+  
+  
+  
+Figure 1: Water rocket and support structure 
+• The rocket must comply with all other competition and safety requirements. 
+3.3 Water and Pressurization 
+• Teams may select the amount of water used in the rocket, provided that sufficient air remains  inside the bottle for pressurization. 
+• The water level should be selected and justified as part of the team's design and testing  process. 
+• Figure 2 illustrates the basic physics and operating principles of a water rocket. 
+• On the day of the competition, an electric pump will be used to pressurize and launch the  rocket. 
+3 | P a g e 
+Figure 2: Water rocket physics 
+3.4 Competition and Winning Criteria 
+• Each team will have the opportunity to launch its water rocket during the competition. • The rocket must travel a minimum horizontal distance of 6 meters to qualify. • The three teams achieving the longest qualifying horizontal distances will receive awards. • The winning team will be the team whose rocket: 
+1. Meets all specified design and safety requirements; and 
+2. Achieves the longest measured horizontal distance. 
+3.5 Best-Designed Water Rocket Award 
+In addition to the distance competition, an award will be given for the Best-Designed Water Rocket. Creativity, engineering design, appearance, innovation, effective use of materials, and sustainable  design may be considered for this award. 
+Be creative! The objective is not only to build a rocket that travels the longest horizontal  distance, but also to demonstrate good engineering design and innovation. 
+4. Safety Guidelines 
+Safety is the highest priority of the Water Rocket Challenge. 
+All teams must follow the safety requirements below during construction, testing, pressurization,  and launching.
+4 | P a g e 
+4.1 Personal Protective Equipment 
+• Every participant in the launch area must wear safety goggles at all times during active  pressurization and launching. 
+• Additional protective equipment, such as a helmet, may be required where directed by the  instructor or competition organizers. 
+4.2 Launch Procedures 
+• A countdown must always be used before launching the rocket so that everyone is aware that  a launch is about to take place. 
+• Once pressurization is complete, all participants and observers must move behind the  designated/roped-off safety area before the countdown and launch. 
+• A minimum safety distance of 15 feet (approximately 4.6 m) must be maintained for small rocket launches, unless a greater distance is specified by the instructor or safety coordinator. • Never approach or handle a pressurized rocket. 
+• Only authorized personnel should operate the launch and pressurization equipment. 4.3 Bottle Inspection and Replacement 
+• Plastic bottles can weaken with repeated use and may rupture or explode under pressure. • Two-liter bottles require particular attention and should be carefully inspected before every  launch. 
+• Bottles showing cracks, deformation, scratches, whitening, or other signs of damage must  not be used. 
+• As a precaution, bottles should be retired after approximately 10–15 launches, or earlier if  any deterioration is observed. 
+4.4 Safety Compliance 
+Failure to follow the safety requirements may result in: 
+• Disqualification from a launch; 
+• Removal of the rocket from the competition; and/or 
+• Significant loss of project marks. 
+5. Project Deliverables 
+Each team is required to submit and complete the following: 
+5.1 Prototype 
+A functional water rocket prototype must be constructed and demonstrated. 5.2 Technical Report 
+The technical report should document the complete engineering design process, including, as  applicable: 
+• Introduction and project objectives 
+• Design requirements and constraints 
+• Concept development and selection 
+• Materials used 
+• Rocket design and dimensions
+5 | P a g e 
+• Engineering calculations and analysis 
+• Water volume and pressurization considerations 
+• Stability and aerodynamic considerations 
+• Prototype development 
+• Testing methodology 
+• Test results and observations 
+• Design modifications and optimization 
+• Final design 
+• Competition results, including the measured horizontal distance 
+• Sustainability considerations 
+• Conclusions and recommendations 
+5.3 Presentation 
+Each team will present its project to the class. The presentation should clearly explain: • The design concept 
+• Engineering principles used 
+• Design decisions 
+• Testing and modifications 
+• Final performance, including the horizontal distance achieved 
+• Lessons learned 
+6. Project Challenge – Sustainability and Innovation 
+Participants are tasked with designing and building a sustainable and eco-friendly water rocket. Teams should aim to balance: 
+• Performance 
+• Stability 
+• Aerodynamic efficiency 
+• Structural integrity 
+• Material efficiency 
+• Sustainability 
+• Creativity 
+Where possible, teams should incorporate recycled, reusable, or readily available materials into their  designs. 
+The project should demonstrate how engineering design can be used to achieve high performance  while considering environmental responsibility and efficient use of resources.
+6 | P a g e 
+7. Learning Objectives 
+Upon successful completion of the project, students should be able to: 
+1. Explore creative engineering solutions for designing and building an eco-friendly water  rocket. 
+2. Apply engineering principles related to forces, motion, pressure, fluid mechanics, energy,  stability, and aerodynamics. 
+3. Promote the use of sustainable materials and environmentally responsible practices in  engineering projects. 
+4. Apply engineering design and problem-solving tools to develop, test, evaluate, and improve  a prototype. 
+5. Analyze experimental results and use data to optimize rocket design. 
+6. Develop teamwork and project-management skills through collaborative engineering work. 7. Develop technical communication skills through the preparation of a technical report and  oral presentation. 
+8. Demonstrate engineering creativity and innovation while working within specified design,  material, and safety constraints. 
+8. Important Reminder 
+The objective of the Water Rocket Challenge 2026 is not simply to build a rocket that travels a long  distance. The project is an opportunity to demonstrate the complete engineering design process: D g → B d → T → A yz → I v → D  
+The competition performance will be determined by the measured horizontal distance traveled  by the rocket, provided that all design and safety requirements are satisfied. 
+9.Progress Report  
+Once you have chosen a name for the team and assigned roles among the different team members  (team leader, team coordinator, recorder, timekeeper, encourager, etc.), you are expected to update  your instructor on the progress of the project. This updating is usually handled by a progress report,  which is limited in this course to 1 cover page + 1 Gantt Chart page + a maximum of 3 pages for  Intro/Body/Conclusion (total 5 pages). Progress reports should include:  
+❑ Background of the project itself  
+❑ Discussion of achievements so far  
+❑ Discussion of problems that have arisen.  
+❑ Discussion of work that lies ahead.  
+❑ Assessment of whether you will meet the objectives of the project.  
+❑ Gantt chart using MS Project for the design project (explaining the 10 design steps). 
+7 | P a g e 
+10.Final Project Report  
+Your technical report must include 10 steps of an engineering design as follows:  ❑ Cover and title sheets, abstract, table of content, and list of figures and tables  ❑ Chapter 1 – INTRODUCTION (identification of need and definition of problem)  ❑ Chapter 2 – BACKGROUND (search for solutions, constraints, and criteria)  ❑ Chapter 3 – ANALYSIS (alternative solutions, analysis of each solution)  ❑ Chapter 4 – RESULTS (choose best solution, specification)  
+❑ Chapter 5 – CONCLUSIONS (conclusions, recommendations, future work and discussion  of the Gantt chart)  
+❑ Reference and Appendix (code of cooperation, at least 5 agendas and 5 minutes of team  meetings throughout the design process)  
+11. Presentation  
+Each team will present the design using slides prepared by a software of their choice. Ten minutes  will be given for each team. All team members must participate in the presentation.  
+Chatbot Development Component 
+As part of the Water Rocket Challenge 2026, each team is required to design and develop a simple  chatbot related to their water rocket project. 
+The chatbot should serve as a virtual assistant that provides useful information about the team's water  rocket and helps users understand the engineering principles behind its design. The chatbot may include features such as: 
+• Explaining how a water rocket works. 
+• Providing information about the rocket's design and materials. 
+• Explaining the engineering principles used in the project. 
+• Answering questions about thrust, pressure, stability, aerodynamics, and projectile motion. • Providing information about the team's selected water volume and design parameters. • Explaining the testing procedure and results. 
+• Providing basic safety guidelines. 
+• Explaining the team's approach to sustainability. 
+• Answering frequently asked questions about the project. 
+Chatbot Requirements 
+Each team should: 
+1. Design and develop a functional chatbot. 
+2. Give the chatbot a suitable name related to the water rocket project. 
+3. Include information specific to the team's own rocket design. 
+4. Test the chatbot using a set of questions and document the results. 
+5. Identify at least one limitation or incorrect response produced by the chatbot and explain how  the team addressed it. 
+6. Demonstrate the chatbot during the final project presentation. 
+The chatbot may be developed using an appropriate AI chatbot platform or programming  environment approved by the instructor.
+8 | P a g e 
+Final Presentation 
+Each team must include a live demonstration of its chatbot during the final presentation. The team should briefly explain: 
+• What is your chatbot? 
+• How did you develop it? 
+• What can it do? 
+• What information did you provide to it? 
+• How did you test its responses? 
+• What limitations did you identify? 
+• How does it relate to your water rocket project? 
+Students should demonstrate the chatbot by asking it 2–3 questions related to their water rocket and  showing the responses to the audience. 
+Important: The chatbot is part of the engineering project and should demonstrate the team's  understanding of the water rocket. The objective is not simply to create a chatbot, but to develop a  useful digital tool that communicates the team's engineering work. 
+12. Project Points  
+The project is worth 20 points: 9 points for the presentation, 2 points for the progress report,  and 9 points for the final report. In case the demo fails to meet the project rules, the project grade will be significantly penalized. 
+
