@@ -364,7 +364,7 @@ with st.sidebar:
     with st.container(border=True):
         st.header("Project sources")
         for path in document_paths:
-            st.write(path.name.split(".")[0].split("_").join(" ").capitalize())
+            st.write(path.name.split(".")[0].replace("_", " ").capitalize())
         st.caption(
             "From Team 5 "
             "For Team 5"
