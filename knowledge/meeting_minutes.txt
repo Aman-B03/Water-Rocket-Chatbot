@@ -1,0 +1,175 @@
+ Meeting 1 
+
+Date: October 16, 4pm - 5pm
+Present (5): Nijar, Aman, Adam, Ghada, Mohamed
+
+
+Agenda 
+Decide on team name and roles 
+Read through the instructions as a team 
+Plan and brainstorm different water rocket designs
+Do some research
+
+Discussion Points 
+Reviewed the project instructions
+We assigned the following roles: 
+Adam Alchamandi - Timekeeper
+Aman Bhandari - Recorder
+Ghada Abu Naim - Encourager
+Mohamed Coundoul - Team coordinator 
+Nijar Ahmed - Team Leader
+Adam will take the lead on building the chatbot 
+Mohamed is researching background about water rockets and existing designs
+Nijar will search for alternative solutions 
+Ghada proposed Code of Cooperation guidelines for the team to agree on
+
+Future Discussion Points
+Analysis and selection of the best design using criteria matrix
+
+ Meeting 2 
+
+Date: Thursday, October 22, 3:30 pm
+Present (5): Nijar, Aman, Adam, Ghada, Mohamed
+
+
+Agenda 
+Discuss alternative solutions, analyze and decide on the final one. 
+Assign specifications step 
+Progress on the chatbot planning 
+Agree on a timeline, and assign the Gantt Chart construction
+Building and testing october 29 - nov 1 
+
+Discussion Points 
+We reviewed the three alternative designs: two 1.5L bottles taped back to back with 4 triangular fins (Design 1), one 1.5L carbonated bottle with a cardstock nose cone and 3 swept-back trapezoidal fins (Design 2), and a small 500 mL bottle with a cardboard frame (Design 3)
+We rated each design from 1-10 on each criterion, multiplied by the criterion weight, and summed the results
+Design 2 scored highest (815), ahead of Design 1 (790) and Design 3 (565), so Design 2 was chosen as the final design.
+
+Future Discussion Points
+Start building and testing the prototype on Thursday, October 29
+.
+
+ Meeting 3
+
+Date: Tuesday, October 27, 8:00 pm
+Present (4):  Nijar, Aman, Adam, Ghada
+
+
+Agenda 
+Assign roles to complete the progress report
+Complete the Gantt chart using MS Project, explaining the 10 design steps
+Review the final report requirements and start assigning roles
+Update on the AI chatbot progress
+Decide on materials and set a date next week to start building the water rocket
+Discussion Points 
+Ghada will handle the Gantt chart
+We allocated roles to complete the progress report (each member to write one section)
+Adam updated us about progress on the chatbot
+We will assemble the rocket on Nov 5
+
+Future Discussion Points
+Next goal: By Thursday, November 5th, the prototype building and  progress report should be complete. 
+Will we be able to test our rocket? 
+
+Further details of meeting 3: 
+Oct 27, 2026
+Meeting Oct 27, 2026 at 20:03 GMT+04:00
+
+
+Summary
+Rocket material planning with progress report allocation and strategy discussions
+
+Rocket Materials and Assembly
+Plastic sheets ordered from Amazon. Target completion date set for November 5th.
+
+Progress Report Tasks
+Progress report tasks allocated among members. Gantt chart assigned.
+
+Technical Report Strategy
+Instructor consultation planned for technical report expectations. Focus placed on functional project grades.
+
+
+Decisions
+Aligned
+Library assembly location and scheduling The team aligned to assemble the rocket in a booked library room next week once the materials are fully prepared.
+Rocket building completion milestone The team established November 5th as the target completion milestone for building the rocket.
+Project scope and grading focus The team agreed to maintain a manageable design focused on securing a good grade rather than over-engineering to win.
+
+
+Next steps
+[Nijar Ahmed] Order Rocket Materials: Purchase plastic materials required for the rocket fins and wings through Amazon. Ensure the materials arrive before the weekend for assembly.
+[Ghada Abu Naim] Acquire Modeling Clay: Locate and acquire heavy modeling clay to use as weight in the rocket nose. Coordinate with team members regarding availability.
+[Ghada Abu Naim] Check Tape Supply: Verify if thick clear tape is available in personal supplies. Report the findings to the team.
+[Nijar Ahmed] Bring Glue Gun: Transport personal hot glue gun to the library for the scheduled assembly session. Coordinate the date and time for the build.
+[Ghada Abu Naim] Create Gantt Chart: Develop the Gantt chart for the term project. Ensure it reflects current timelines and project milestones.
+[Nijar Ahmed] Write Progress Report Section: Write the Next steps section for the progress report. Include details on future project phases.
+[Ghada Abu Naim] Document Obstacles: Write the Obstacles faced section for the progress report. Include any relevant project difficulties or time management challenges.
+[Aman Bhandari] Document Background: Write the Background section for the progress report. Cover project origins and initial research.
+[Adam Alchamand] Assess Objectives: Write the Assessment of objectives section for the progress report. Evaluate project goals and anticipated outcomes.
+[Adam Alchamand] Develop Chatbot: Build the chatbot based on the requirements listed in the shared document. Test the chatbot functionality using the specified presentation questions.
+[The group] Book Assembly Room: Book a presentation room at the library for the rocket assembly. Confirm the reservation once a specific date is selected.
+[The group] Consult Instructor: Consult Dr. Aqeel regarding official testing requirements and procedures for the water rocket. Confirm what technical data is expected for the final report.
+
+
+Details
+Rocket Materials and Amazon Orders: Nijar Ahmed requested to order plastic sheets from Amazon for the rocket's wings and fins, planning to place the order so that materials would arrive by Thursday. Ghada Abu Naim offered to help gather materials locally if needed. Nijar Ahmed planned to cut the plastic sheets according to blueprint measurements so they could be easily transported.
+
+Modeling Clay for Nose Cone Weight: Nijar Ahmed brought up a recommendation from a Claude-generated blueprint to add a small ball of heavy modeling clay inside the rocket's nose cone to help it fly straight. Ghada Abu Naim agreed to check nearby bookstores for the required gray or brown heavy modeling clay, distinguishing it from lighter slime-like clay.
+
+
+Library Room Booking and Assembly Plans: Nijar Ahmed suggested assembling the rocket in a booked library presentation room using a hot glue gun, noting that cutting would be done beforehand. Ghada Abu Naim and Aman Bhandari agreed with the plan, with Aman Bhandari recommending that they fix a specific date and time beforehand to properly book the presentation room. Nijar Ahmed established a target completion date for building the rocket by Thursday, November 5th.
+
+Progress Report Task Allocations and Gantt Chart: Nijar Ahmed led the task assignment for the progress report due on November 8th, which contains five sections plus a Gantt chart. Ghada Abu Naim requested and took responsibility for creating the Gantt chart and handling the obstacles faced section, playfully noting they would fabricate details about time management and team phases. Aman Bhandari volunteered for the background section, Adam Alchamand took the assessment of objectives section, and Nijar Ahmed managed the next steps.
+
+Chatbot Development: Nijar Ahmed inquired about the chatbot development status, which was assigned to Adam Alchamand. Adam Alchamand stated they would work on the chatbot independently, train it by uploading project requirements and specific presentation questions, and notify the group upon completion.
+
+Technical Report Testing Requirements and Instructor Consultation: Nijar Ahmed and Ghada Abu Naim discussed concerns regarding the technical report's requirement for testing data and trial measurements, noting they had not yet received testing time or conditions. Nijar Ahmed and Aman Bhandari agreed that they must consult the instructor the following day to clarify expectations for the technical report if testing cannot be conducted.
+
+Rocket Design Benchmarking and Fin Specifications: Aman Bhandari and Nijar Ahmed discussed insights from observing another team's experienced member, mentioning a past project record of 200 meters and a 45-degree fin angle. Nijar Ahmed shared a blueprint generated via Claude, emphasizing that fin material and a 45-degree angle are more crucial than the exact fin shape.
+
+Cone Material and 3D Printing Feasibility: Adam Alchamand raised the possibility of 3D printing rocket components, but Nijar Ahmed argued against it, stating that 3D printing would add excessive mass and unnecessary complications. Nijar Ahmed preferred using black paper covered in thick clear tape for the nose cone, while Ghada Abu Naim questioned whether water would weaken paper, though Nijar Ahmed reassured them that the tape would make it waterproof.
+
+Bottle Sizing and Competition Strategy: Nijar Ahmed reviewed their 1.25-liter bottle design measuring 30 centimeters, noting it provides adequate headroom within the 50-centimeter limit. Regarding the competition strategy, Nijar Ahmed and Ghada Abu Naim agreed to focus on creating a functional project that earns a good grade rather than trying to win, noting that winning does not provide extra credit. Nijar Ahmed also debated whether to submit their AI-generated blueprint directly or adapt it, with Ghada Abu Naim suggesting they use it for reference and take specific aspects from it.
+
+
+You should review Gemini's notes to make sure they're accurate. Get tips and learn how Gemini takes notes
+How is the quality of these specific notes? Take a short survey to let us know your feedback, including how helpful the notes were for your needs.
+
+
+
+ Meeting 4 
+
+Date: Thursday, November 5th 
+Present (5): Nijar, Aman, Adam, Ghada, Mohamed
+
+
+Agenda 
+Complete the construction
+Finalize the progress report 
+Assign roles for the technical report
+
+Discussion Points 
+We assembled the rocket following our sketch for design 2. 
+We struggled with finding the right weight of clay to use at the tip of the nose, and attaching it properly.
+We followed up on the progress report and technical report status. 
+
+Future Discussion Points
+Discuss test results and future improvements
+Follow up on technical report progress. 
+
+ Meeting 5 
+
+Date: Friday, November 13th
+Present (5): Nijar, Aman, Adam, Ghada, Mohamed
+
+
+Agenda 
+Follow-up on technical report progress
+Assign roles for the presentation
+Test chatbot responses and provide feedback
+
+Discussion Points 
+We agreed that the final revision of the technical report would be complete on Saturday evening.
+We allocated each member 2-4 slides to work on and present, and agreed to meet up on Monday morning to practice our presentation.
+We tested the chatbot and discovered a few questions that it could not answer, and worked on fixing this by providing more training data. 
+Finally, we confirmed that the rocket is ready to be launched on Sunday. 
+

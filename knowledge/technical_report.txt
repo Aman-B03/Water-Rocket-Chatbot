@@ -1,84 +1,85 @@
-5.2 Technical Report 
 
-The technical report should document the complete engineering design process, including, as  applicable: 
-●	Introduction and project objectives 
-●	Design requirements and constraints 
-●	Concept development and selection 
-●	Materials used 
-●	Rocket design and dimensions
-●	Engineering calculations and analysis 
-●	Water volume and pressurization considerations 
-●	Stability and aerodynamic considerations 
-●	Prototype development 
-●	Testing methodology 
-●	Test results and observations 
-●	Design modifications and optimization 
-●	Final design 
-●	Competition results, including the measured horizontal distance 
-●	Sustainability considerations 
-●	Conclusions and recommendations 
 
-Your technical report must include 10 steps of an engineering design as follows:  
-❑ Cover and title sheets, abstract, table of content, and list of figures and tables 
-❑ Chapter 1 – INTRODUCTION (identification of need and definition of problem)  Adam
-❑ Chapter 2 – BACKGROUND (search for solutions, constraints, and criteria)  -Aman
-❑ Chapter 3 – ANALYSIS (alternative solutions, analysis of each solution) -Nijar
-❑ Chapter 4 – RESULTS (choose best solution, specification)  -Mohammad
-❑ Chapter 5 – CONCLUSIONS (conclusions, recommendations, future work and discussion  of the Gantt chart)  -Ghada
-❑ Reference and Appendix (code of cooperation, at least 5 agendas and 5 minutes of team  meetings throughout the design process)  
- 
 
 
 
 
  NGN 110: Introduction to Engineering and Computing
 Term Project: Progress Report
-…
+Aqeel Mohammad, Karnail Singh
 November 15th, 2026
 
 
 Team Name: 
-Name	ID	Role: 
-Adam Alchamandi	00114384	Team Coordinator
-Aman Bhandari	00116907	Recorder
-Ghada Abu Naim	00116199	Encourager
-Mohamed Coundoul	00112578	Time Keeper
-Nijar Ahmed	00114642	Team Leader
- 
+Name
+ID
+Role: 
+Adam Alchamandi
+00114384
+Team Coordinator
+Aman Bhandari
+00116907
+Recorder
+Ghada Abu Naim
+00116199
+Encourager
+Mohamed Coundoul
+00112578
+Time Keeper
+Nijar Ahmed
+00114642
+Team Leader
+
+
 Abstract     
-Introduction and project objectives 
- 
+The purpose of this project was to design, construct, and test a water rocket capable of flying the greatest horizontal distance and fulfilling the criteria of the AUS Water Rocket Competition, following the engineering design process. Our team began by brainstorming ideas and created three alternative designs, then analyzed and selected the best design using a weighted criteria matrix that considered aerodynamics, stability, mass, sustainability, creativity, and ease of assembly. The selected design was 1.25 L Pepsi PET bottle with a reinforced cardstock nose cone and three plastic clipped-delta fins, because it scored the highest with its balance of stability, mass, and aerodynamics. Through two test trials, we compared the performance of the rocket with 400 mL and 500 mL of water, and determined that 500 mL was the better water volume for maximum flight distance. However, this trial also showed weaknesses in our nose cone design that caused it to fly to the right rather than straight. After addressing these issues and reinforcing the nose cone and clay ballast, the rocket was able to reach [ ] distance in the final competition. Overall, the project demonstrated the importance of evaluating design alternatives, testing prototypes, and making improvements based on experimental observations.
+
 Table of Contents
-Abstract	2
-Table of Contents	3
-List of Figures	3
-List of Tables	4
-Introduction	6
-Theory	8
-Experimental Setup and Procedure	8
-Apparatus	8
-Procedure	12
-Results	14
-Discussion of Results	15
-Conclusions and Recommendations	16
-References	18
-Appendix	19
+Abstract	3
+Table of Contents	4
+List of Figures	4
+List of Tables	5
+CHAPTER 1 – INTRODUCTION	7
+1.1 Identification of Need	7
+1.2 Definition of the Problem	7
+1.3 Project Objectives	8
+CHAPTER 2 – BACKGROUND	9
+2.1 Background and Working Principles of Water Rockets	9
+2.2 Research on Existing Water Rocket Designs and Solutions	9
+2.3 Design Constraints and Competition Rules	10
+2.4 Sustainability Considerations	11
+CHAPTER 3 – ANALYSIS	12
+3.1 Alternative Design Concepts	12
+3.2 Criteria Matrix	14
+3.3 Engineering Analysis and Calculations	15
+3.3 Engineering Calculations and Design Justification	15
+CHAPTER 4 – RESULTS	18
+4.1 Selected Design and Specifications	18
+4.2 Prototype Construction	19
+4.3 Testing Procedure	19
+4.4 Test Results and Observations	19
+CHAPTER 5 – CONCLUSIONS	23
+5.1 Conclusions	23
+5.2 Recommendations	24
+5.3 Future Work	25
+5.4 Discussion of the Gantt Chart	26
+REFERENCES	28
+APPENDICES	29
+Appendix A – Code of Cooperation	29
+Appendix B – Gantt Chart	30
+Appendix C – Meeting Minutes	31
 
- 
 List of Figures
-Figure 1. Compressive Testing Machine ................................................................................... 9
-Figure 2. Schmidt Hammer ..................................................................................................... 10
-Figure 3. Vernier Caliper ....................................................................................................... 10
-Figure 4. Concrete Cube After Destructive Testing .................................................................11
-Figure 5. Electric Balance  ......................................................................................................12
-Figure 6. Calibration Chart  ...................................................................................................13
- 
+Figure 1. Final Water Rocket Model................................................................................................. 18
+Figure 2. Water Volume and Horizontal Distance Comparison ....................................................... 19
+Figure 3. Rocket Nose Damage After Trial Impact........................................................................... 20
+Figure 4. Improved Rocket Nose Cone.............................................................................................. 20
 List of Tables 
-Table 1. Compressive Strength Test Data for Concrete Cube Specimen ................................ 14
-Table 2. Schmidt Hammer Test Data for Concrete Compressive Strength …......................... 15
+Table 1. Criteria Matrix…................................................................................................................ 13
+Table 2. Test Results ….................................................................................................................... 18
 
 
- 
+
 CHAPTER 1 – INTRODUCTION
 1.1 Identification of Need
 Water rockets offer a low-cost, hands-on way to put engineering principles into practice. By propelling water from a pressurized bottle, students can investigate how stored pressure generates thrust and how a rocket’s shape influences its flight. The Water Rocket Challenge gives the team an opportunity to apply these principles by designing and building a rocket that flies safely and achieves the greatest possible horizontal distance while meeting the competition requirements.
@@ -89,18 +90,18 @@ The rocket must also be practical to build from suitable, readily available mate
 The engineering problem is therefore to select and refine a design that balances flight performance, stability, durability, sustainability, and feasibility while complying with the competition’s dimensional, distance, and safety requirements.
 1.3 Project Objectives
 The objectives of the project are to:
-●	Investigate how water rockets generate thrust and what factors affect their flight.
-●	Develop and compare candidate rocket designs against defined engineering criteria.
-●	Choose appropriate materials and a bottle that satisfy the project’s constraints.
-●	Design a rocket shorter than 50 cm and aim to achieve a qualifying horizontal distance of at least 6 m.
-●	Select and justify the water volume while leaving sufficient air for pressurization.
-●	Build and test a prototype, recording observations and measured flight distances.
-●	Assess how design features such as water volume, mass, fins, and nose shape influence performance.
-●	Use test results to improve the design and specify a final rocket.
-●	Apply safe construction and launch practices and consider sustainable material choices.
-●	Develop and test a chatbot that explains the team’s rocket, engineering principles, test results, and safety practices.
+Investigate how water rockets generate thrust and what factors affect their flight.
+Develop and compare candidate rocket designs against defined engineering criteria.
+Choose appropriate materials and a bottle that satisfy the project’s constraints.
+Design a rocket shorter than 50 cm and aim to achieve a qualifying horizontal distance of at least 6 m.
+Select and justify the water volume while leaving sufficient air for pressurization.
+Build and test a prototype, recording observations and measured flight distances.
+Assess how design features such as water volume, mass, fins, and nose shape influence performance.
+Use test results to improve the design and specify a final rocket.
+Apply safe construction and launch practices and consider sustainable material choices.
+Develop and test a chatbot that explains the team’s rocket, engineering principles, test results, and safety practices.
 
- 
+
 CHAPTER 2 – BACKGROUND
 2.1 Background and Working Principles of Water Rockets
 A water rocket uses compressed air and water to produce thrust. The bottle acts as the pressure chamber, with its opening pointing backward during launch. Air is pumped into the bottle while the launcher holds it in place. Once the rocket is released, the compressed air expands and pushes the water out through the opening. The water moves backward, and the rocket is pushed forward. This follows Newton’s third law, which states that forces act in equal and opposite pairs.
@@ -121,117 +122,341 @@ Sustainability was considered when choosing materials and comparing designs. Reu
 The design should use only the material needed for strength and reliable flight. Unnecessary layers, decorations, and large attachments increase material use and rocket mass. Repairable nose cones and fins also allow individual parts to be replaced instead of rebuilding the whole rocket.
 However, reuse must not come at the expense of safety. A bottle showing damage should be replaced rather than kept simply to reduce waste. After testing, reusable components should be collected, and materials should be separated for recycling where possible.
 
+
 CHAPTER 3 – ANALYSIS
 3.1 Alternative Design Concepts
 As a team, after understanding our goals and constraints, we began brainstorming different solutions for the Water Rocket project. Each design had advantages and disadvantages, with some prioritizing volume to store more energy, and others prioritizing aerodynamics and more stable flight. By examining each design’s strengths, feasibility, and cost, we ensured that we would find a design that optimizes performance while fulfilling our needs.  We compared three alternative designs, and we analyzed them based on the following criteria, each representing our preferred features for the final design: 
-●	Sustainability and use of recycled materials
-●	Creative design and attractive appearance 
-●	Low mass
-●	More volume for water
-●	Aerodynamic structure and stability
-●	Ease of assembly 
+Sustainability and use of recycled materials
+Creative design and attractive appearance 
+Low mass
+More volume for water
+Aerodynamic structure and stability
+Ease of assembly 
 These criteria were selected to assess the strengths and weaknesses of each design and enable us to make the best judgement based on engineering principles. The design that balances these criteria in the best possible way will be chosen as our prototype model.
 Alternative Design #1: 
 The first design prioritized volume in order to maximize the amount of water and pressure that can be carried and produce the most thrust. It is made up of two 1.5 liter water bottles cut and taped together, with the bottle necks pointing in opposite directions. One side will act as the nozzle for water, and the other will be the nose of the rocket. It also has 4 triangular fins made of foam board to make it more stable. However, in maximizing volume, the design makes major tradeoffs in strength, stability, mass, and ease of construction. Our major concern was that we may not be able to connect the two bottles in a way that withstands pressurization, leading to possible leaks. The triangle fin shape is easier to construct, but it doesn't necessarily improve performance when compared to other fin shapes, and foam board weakens with impact, especially when wet. Moreover, although still water bottles are cheaper, they are weaker and aren't built for high pressures. Lastly, using two bottles and four fins increased mass and drag, and without a pointed nose cone, this design is less aerodynamic. 
 Alternative Design #2:
-This design was simple and straightforward but maximized benefits through many different features: a strong 1.25 liter carbonated drink bottle, with a weighted cardstock nose cone, and three swept-back clipped delta fins.  The 1.25 liter size strikes a good balance between volume and mass, and since carbonated drink bottles are made of stronger PET plastic, they can withstand higher pressures without shattering. Three fins provide enough stability without increasing drag, and the clipped delta fins are more aerodynamic and aesthetically pleasing, despite being slightly harder to construct. Instead of foam, we used corrugated plastic sheets, which are less likely to dent or break and are more water resistant. We also had the idea to build a nose cone to reduce drag out of light cardstock reinforced with plastic lamination to make it stronger and waterproof, and we added a small ball of clay at the tip of the cone to give the rocket more momentum and stability, so that its flight path is straight. 
+This design was simple and straightforward but maximized benefits through many different features: a strong 1.25 liter carbonated drink bottle, with a weighted cardstock nose cone, and three swept-back clipped delta fins.  The 1.25 liter size strikes a good balance between volume and mass, and since carbonated drink bottles are made of stronger PET plastic, they can withstand higher pressures without shattering. Three fins provide enough stability without increasing drag, and the clipped delta fins are more aerodynamic and aesthetically pleasing, despite being slightly harder to construct. Instead of foam, we used corrugated plastic sheets, which are less likely to dent or break and are more water resistant. We also had the idea to build a nose cone to reduce drag out of light cardstock reinforced with plastic lamination to make it stronger and waterproof, and we added a small ball of clay at the tip of the cone to give the rocket more momentum and stability, so that its flight path is straight. It also uses easily accessible recycled materials that are lightweight and sustainable.
 
 Alternative Design #3: 
 This idea was more complex and creative as we considered using cardboard to build a frame for the bottle to sit in. However, apart from being more sustainable, creative, and aesthetically pleasing, this design had the most weak points. It would only be feasible with a smaller 500 mL bottle, which has less mass but holds less water. The cardboard frame is the visual selling point of this design, but in practice, it is harder to construct, heavier, and can weaken when wet. Moreover, the frame structure is bulky and increases air resistance, making it less aerodynamic. 
 3.2 Criteria Matrix 
-After creating three alternative designs, we used a criteria matrix to analyze and compare them in order to make the best judgment about the strongest design. We assigned each of our criteria a weight according to its importance, then gave each design a rating out of 10 according to how well it fulfills each criteria. Lastly, we calculated each design’s score by adding the products of each criteria’s rating and weight, then compared the scores to choose the best design. 
+After creating three alternative designs, we used a criteria matrix to analyze and compare them in order to make the best judgment about the strongest design. We assigned each of our criteria a weight according to its importance and impact on flight, then gave each design a rating out of 10 according to how well it fulfills each criteria. Lastly, we calculated each design’s score by adding the products of each criteria’s rating and weight, then compared the scores to choose the best design. 
 Table 1. Criteria Matrix
-Criteria	Weight (W)	Alternative Designs (Scores out of 10)
-		Design 1	Design 2	Design 3 
-Sustainability 	15	10	10	10
-Creative Design	10	6	4	8
-Low mass	20	6	8	5
-Water Volume	15	9	7	4
-Aerodynamics & Stability	25	7	9	4
-Ease of Assembly	15	10	9	5 
-TOTAL	100	790	815	565
+Criteria
+Weight (W)
+Alternative Designs (Scores out of 10)
+Design 1
+Design 2
+Design 3 
+Sustainability 
+15
+10
+10
+10
+Creative Design
+10
+6
+4
+8
+Low mass
+20
+6
+8
+5
+Water Volume
+15
+9
+7
+4
+Aerodynamics & Stability
+25
+7
+9
+4
+Ease of Assembly
+15
+10
+9
+5 
+TOTAL
+100
+790
+815
+565
 
-3.4 Engineering Analysis and Design Justification
-Explain why the preferred concept uses:
-- A compact carbonated PET bottle instead of two water bottles.
-- Three clipped-delta fins rather than four triangular fins.
-- A lightweight conical nose cone.
-- Rear-mounted fins and potential nose ballast for stability.
-- Reused or lightweight materials for sustainability.
-Include your simple calculations here: the water-fill percentage, remaining air volume, fin surface area, and loaded mass if measured. 
+
+Design 2 achieved the highest weighted score of 815, followed by Design 1 with 790 and Design 3 with 565. Although Design 1 scored higher in water capacity and ease of assembly, Design 2 performed better in the heavily weighted categories of low mass, aerodynamics, and stability. Therefore, Design 2 was selected as the most promising concept.
+3.3 Engineering Analysis and Calculations
+To support our design decisions, we performed calculations to determine the water-fill percentage, remaining air volume, fin surface area, and total rocket mass. These calculations helped us evaluate the rocket's specifications and understand how different water volumes affect its performance.
+1. Water-Fill Percentage
+The selected pressure vessel is a 1.25 L Pepsi bottle with a total capacity of 1,250 mL. During testing, we used two different water volumes: 400 mL and 500 mL.
+Water-fill percentage = (Water volume ÷ Bottle capacity) × 100
+Trial 1 (400 mL):
+(400 ÷ 1250) × 100 = 32%
+Trial 2 (500 mL):
+(500 ÷ 1250) × 100 = 40%
+2. Remaining Air Volume
+The remaining space inside the bottle is available for compressed air, which provides the pressure needed to propel the water out of the nozzle.
+Remaining air volume = Bottle capacity − Water volume
+Trial 1 (400 mL):
+1250 − 400 = 850 mL
+Trial 2 (500 mL):
+1250 − 500 = 750 mL
+3. Fin Surface Area
+The rocket consists of three identical clipped-delta fins with the following dimensions:
+Root chord = 9 cm
+Tip chord = 3 cm
+Span = 6 cm
+For the trapezoidal fin outline:
+Area of one fin = [(Root chord + Tip chord) ÷ 2] × Span
+Area of one fin = [(9 + 3) ÷ 2] × 6 = 36 cm²
+Total fin area = 36 × 3 = 108 cm²
+The three-fin configuration was selected to provide sufficient stabilizing surface area while minimizing additional mass and material consumption.
+4. Loaded Rocket Mass
+The complete empty rocket, including the bottle, nose cone, fins, clay ballast, and attachments, has a measured mass of 88 g.
+Since 1 mL of water has a mass of approximately 1 g:
+Loaded rocket mass = Empty rocket mass + Water mass
+Trial 1 (400 mL):
+88 + 400 = 488 g
+Trial 2 (500 mL):
+88 + 500 = 588 g
+Increasing the water volume from 400 mL to 500 mL increased the rocket's initial loaded mass by 100 g while reducing the available air volume by 100 mL. These calculations demonstrate the tradeoff between water mass and compressed-air space, which must be considered when selecting the water volume for the greatest horizontal flight distance.
+
 CHAPTER 4 – RESULTS
-4.1 Selected Design and Specifications (Mohamed)
-The selected design was Design 2, which scored highest in the weighted criteria matrix because it balances aerodynamic stability with lower mass and ease of construction. The rocket consists of a Coca Cola bottle, a nose cone, and fins. It is 50 cm long and 12 cm wide, with a final mass of 90 g. The water volume that produced the farthest horizontal distance in testing was 500 mL.
-4.2 Prototype Construction (Mohamed)
-Briefly explain how the rocket was constructed and any construction challenges encountered.
+4.1 Selected Design and Specifications
+The selected design was Design 2, which scored highest in the weighted criteria matrix because it balances aerodynamic stability with lower mass and ease of construction. The rocket consists of a 1.25 L Pepsi PET bottle, a nose cone, and fins. It is 43 cm long and 12 cm wide, with a final mass of 88 g. The water volume that produced the farthest horizontal distance in testing was 500 mL.
+Table 3. Specifications and Materials
+Component
+Material
+Specifications
+Purpose
+Pressure Vessel
+1.25 L Pepsi PET bottle
+Capacity: 1,250 mL; estimated diameter: 8.5 cm; estimated length: 30 cm
+Holds water and compressed air for propulsion
+Nose Cone
+Cardstock reinforced with paper and plastic layers
+Conical shape; base diameter: 8.8 cm; height: 15 cm
+Reduces air resistance and improves aerodynamic shape
+Nose Ballast
+Modeling clay
+Approximately 20 g initially; secured inside the nose cone
+Shifts the center of mass forward to improve stability
+Fins (×3)
+Corrugated plastic (Coroplast)
+Clipped-delta shape; root chord: 9 cm; tip chord: 3 cm; span: 6 cm; 120° spacing
+Provides directional stability during flight
+Adhesive for fin, nose, and ballast
+Hot glue and clear tape
+Three fins positioned near the rear of the rocket
+Secures and reinforces the fins
+
+Figure 1. Final Water Rocket Model
+
+4.2 Prototype Construction
+After the materials were procured, the prototype was built from the detailed sketch and specifications of Design 2. We used a 1.25 L carbonated-drink PET bottle as the pressure vessel and cut three clipped-delta fins from corrugated plastic sheets. The fins were attached symmetrically near the rear of the bottle using hot glue. We constructed the nose cone from cardstock and laminated it with plastic, then attached it to the bottle's base using tape, with the 20g clay ballast secured inside to improve stability. We ensured all the parts were attached to the bottle without cutting or piercing it to ensure it could safely hold pressure. Testing later showed that the flight path was not straight, and the team identified improvements to the nose design.
 4.3 Testing Procedure
-After building the first prototype, we conducted controlled tests to observe the performance of the rocket under the same conditions as the final competition. The tests had two main goals: to determine the optimum water volume for the farthest horizontal flight distance, and to identify any design issues hindering the rocket’s performance. We carried out two tests with different water levels, one with 400 mL and the other with 500 mL, with the same launcher and launch procedure. 
-For each launch, the horizontal distance was approximated from the launcher to the landing point using augmented reality measuring apps. We also observed the rocket's flight path to identify potential stability or aerodynamic issues. The recorded distances and observations were then compared to evaluate the effects of water volume and identify possible improvements to the prototype.
+After building the first prototype, we conducted controlled tests to observe the performance of the rocket under similar conditions as the final competition. The tests had two main goals: to determine the optimum water volume for the farthest horizontal flight distance, and to identify any design issues hindering the rocket’s performance. We carried out two tests with different water levels, one with 400 mL and the other with 500 mL, with the same launcher and launch procedure. 
+For each launch, the horizontal distance was approximated from the launcher to the landing point using the iPhone Measure app through augmented reality measurement. We also observed the rocket's flight path to identify potential stability or aerodynamic issues. The recorded distances and observations were then compared to evaluate the effects of water volume and identify possible improvements to the prototype.
 4.4 Test Results and Observations
-Trial	Water Volume	Horizontal Distance	Flight Behavior 
-1	400 mL	17 meters	It flew a short distance and dropped quickly.
-2	500 mL	45 meters	It flew far but veered to the right. Afterwards, the nose cone and fins sustained considerable damage. 
+Table 2. Test Results
+Trial
+Water Volume
+Horizontal Distance
+Flight Behavior 
+1
+400 mL
+17 meters
+It flew a short distance and dropped quickly.
+2
+500 mL
+45 meters
+It flew far but veered to the right. Afterwards, the nose cone and fins sustained considerable damage. 
+
+
+Figure 2. Water Volume and Horizontal Distance Comparison 
 
 Thus, since the 500 mL water volume led to a significantly farther horizontal distance, we concluded that it was a better water volume for the final competition. Moreover, we observed in the second trial that because the nose cone was not sturdy enough, it led the rocket to take a curved path.
-Include a bar graph for comparison.
 4.5 Design Improvements
-The biggest problem we identified during testing was the flight path. Our original cone design had a weaker cone made of cardstock taped together and had some clay in the tip. However, the clay was not secured tightly enough, the cardstock deteriorated with exposure to water, and the warped cone impacted the aerodynamics of the rocket. To solve this, we reinforced the cone with more layers of paper and plastic, and created layers on the inside to support the clay and make sure it didn’t move. 
- Show the before and after images. 
+The biggest problem we identified during testing was the flight path. Our original cone design had a weaker cone made of cardstock taped together and had some clay in the tip. However, the clay was not secured tightly enough, the cardstock deteriorated with exposure to water, and the warped cone impacted the aerodynamics of the rocket. Thus, the rocket’s nose sustained significant damage at impact, as shown in Figure 3. To solve this, we reinforced the cone with more layers of paper and plastic, and created layers on the inside to support the clay and make sure it didn’t move. The improved cone design is shown in Figure 4. 
+Figure 3. Rocket Nose Damage After Trial Impact
+
+Figure 4. Improved Rocket Nose Cone
+
+
 4.6 Final Competition Performance
 Report the official competition distance and compare it with the project objectives and earlier tests where appropriate.
- 
+
 CHAPTER 5 – CONCLUSIONS
 5.1 Conclusions
-This project involved designing, creating and testing a water rocket that could travel the longest distance horizontally. The rocket had to be under 50 cm, follow all safety guidelines, and meet the requirement of travelling a minimum of 6 m to qualify. We developed a chatbot to explain our rocket and engineering principles behind the project. We followed all 10 steps of the engineering design process.
-We used a weighted criteria matrix to compare the 3 alternative designs. Design 2 had the highest score of 815, compared to Design 1 (790) and Design 3 (565). Design 2 was selected due to its low mass, strong pressure resistance, aerodynamic stability, and ease of assembly. The rocket was created using a 1.25 L carbonated PET bottle with a weighted conical nose cone and three clipped-delta fins.
-The rocket travelled 17 m with 400 mL of water, however with 500 mL of water it travelled 45 m, so we used 500mL of water during the competition. Both distances met the minimum requirement of 6 m. Furthermore, we found that when the nose cone got wet, it became soft and made the rocket veer off course. However, adding extra layers of paper and plastic, and attaching the clay ballast helped stop this issue and improved the rocket's flight.
-The final rocket is under 50 cm, uses reusable materials with replaceable parts, and was launched following all safety procedures. Its official competition distance was [insert distance], which [compare with the 6 m minimum and earlier tests]. The chatbot explains how the rocket works, its design and materials, safety guidelines, and our sustainability approach. At first it could not answer every question, but we fixed this by [describe the fix].
-The final rocket we created was under 50 cm in length, used recyclable materials with replaceable components and followed all the safety guidelines when launched. The official distance travelled during the competition was [insert distance], which [compare with the 6 m minimum and earlier tests]. The chatbot explains how the rocket works, its design and materials, safety guidelines, and our sustainability approach. Initially the chatbot could not answer basic questions we asked, however we solved this by [Insert Solution].
+This project involved designing, creating and testing a water rocket that could travel the longest distance horizontally. It had to be under 50 cm, follow all safety guidelines, and travel a minimum of 6 m to qualify. We developed a chatbot to explain our rocket and the engineering principles behind it, and we followed all 10 steps of the engineering design process.
+We used a weighted criteria matrix to compare the 3 alternative designs. Design 2 had the highest score of 815, compared to Design 1 (790) and Design 3 (565). Design 2 was selected due to its low mass, strong pressure resistance, aerodynamic stability, and ease of assembly. The rocket was created using a 1.25 L carbonated bottle with a weighted conical nose cone and three clipped-delta fins.
+When tested, the rocket travelled 17 m with 400 mL of water and 45 m with 500 mL, so we used 500mL of water during the competition. Both distances met the minimum requirement of 6 m. Furthermore, we found that when the nose cone got wet, it became soft and made the rocket veer off course. However, we added extra layers of paper and plastic, and attached the clay ballast more securely  improved the rocket's flight.
+The final rocket is under 50 cm, uses reusable materials with replaceable parts, and was launched following all safety procedures. Its official competition distance was [insert distance], which [compare with the 6 m minimum and earlier tests]. 
+The chatbot acts as a virtual assistant, offering helpful information about the water rocket and explaining the engineering principles behind its design. Initially the chatbot could not answer basic questions we asked, however we solved this by [Insert Solution].
 In total, only two launches were carried out and distances were estimated with augmented-reality apps. Therefore, the results show a trend but do not confirm that 500 mL is the true optimal amount. Overall, the project achieved its objectives by producing a safe and sustainable rocket and a chatbot that communicates the team’s engineering work.
 
 5.2 Recommendations
-Our experience building and testing the rocket taught us a few practical lessons. For teams taking on this challenge we recommend the following.
-Repeat every test. One launch was recorded for each volume of water, meaning that the result may have been influenced by outside factors such as wind or a slightly different launch angle. Tests should be repeated 3-5 times for each setup and averaging the distances provides more reliable data when choosing the best volume of water.
-Use a tape measure. Whilst augmented-reality apps can be convenient, it is much more accurate to physically mark where the rocket landed and measure it with a tape measure. Using accurate data will lead to better design decisions.
-Make the nose cone waterproof from the start. If the cone made from cardstock gets wet it can soften and cause the rocket to go off course. By laminating, as our team did, or adding a sheet of plastic at the beginning of the project, lots of fixing and re-testing can be avoided.
-Secure the ballast and check the fins. If the clay is loose, it may move during the flight and crooked fins would cause the rocket to veer off course. To avoid this, fix the clay inside the cone and check the fins against a straight edge.
-Safety first! Before launching the rocket, check whether the bottle is in good condition. If there are any cracks, scratches, whitening or distortion in the bottle replace it. After 10-15 launches replace the bottle. Ensure you are wearing goggles, never miss out on the countdown and always stay behind the safety line.
-Ensure the rocket can be easily fixed. This can be done by attaching the cone and fins so they can be replaced, there won’t be a need to completely rebuild the rocket.
-Feed the chatbot good data early. The accuracy of the chatbot depends on what information it has been provided with. Provide it with the rocket's specifications and test results as soon as possible and test it with a range of questions.
-Use the Gantt chart to plan the timeline of the project. Having a plan to follow with clear objectives and set dates allows for the team to work more efficiently and complete important tasks on time. It allows everyone to stay on track. 
-
+Our experience building and testing the rocket taught us a few lessons, and based on that, we recommend the following.
+Repeat every test. Results can be influenced by outside factors such as wind or a slightly different launch angle. Tests should be repeated 3-5 times for each setup and averaging the distances provides more reliable data when choosing the best volume of water.
+Use a tape measure. Whilst augmented-reality apps can be convenient, it is much more accurate to use a tape measure. Using accurate data will lead to better design decisions.
+Make the nose cone waterproof from the start. A wet cardstock cone softens and pushes the rocket off course. By laminating it early, lots of fixing and re-testing can be avoided.
+Secure the clay ballast and check the fins. Loose clay can shift during flight, and crooked fins cause veering.
+Safety comes first! Before launching the rocket, check whether the bottle is in good condition. If there are any cracks, scratches, whitening or distortion in the bottle replace it. After 10-15 launches replace the bottle. Ensure you are wearing goggles, never miss out on the countdown and always stay behind the safety line.
+Ensure the rocket can be easily fixed. Replaceable cones and fins spare the team from rebuilding the entire rocket.
+Feed the chatbot informative data early. The accuracy of the chatbot depends on what information it has been provided with. Provide it with the rocket's specifications and test results and test it with a range of questions.
+Use the Gantt chart to plan the timeline of the project. Clear objectives and set dates help the team finish important tasks on time.
 5.3 Future Work
 With more time, we could take the project further. The most important next steps would be:
-Find the exact optimum volume of water by testing a larger range of volumes. Only two fill levels were tested, so trying a wider range, such as 300 to 700 mL with multiple launches with the same pressure will allow us to see what volume will give the best results.
+Find the exact optimum volume of water by testing a larger range of volumes. Trying a wider range, such as 300 to 700 mL with multiple launches with the same pressure will allow us to see what volume will give the best results.
 Try different launch angles. As we are looking to get the maximum horizontal distance, we can find what angle will give us the best results without changing the rocket.
-Improve the fins and nose ballast. By testing different fin shapes, sizes and numbers, and adjusting the mass of the clay, would help keep the center of gravity ahead of the center of pressure for a straighter flight.
-Build a lighter, smoother nose cone. Using a thinner molded plastic cone could reduce the mass and air resistance while still being waterproof and strong enough to withstand multiple launches.
+Comparing different fin shapes and adjusting the clay mass would help keep the center of gravity ahead of the center of pressure
+Build a lighter nose cone. Using a thinner molded plastic cone could reduce the mass and air resistance while still being waterproof and strong to withstand multiple launches.
 Model the flight on a computer. We could create a basic model to help us see how the rocket will perform with thrust, varying mass, air resistance, and gravity. This would give us an idea of what would work best.
-Improve the chatbot. By adding more test data, frequently asked questions, and handling the unclear or off-topic questions, we could make it a more useful tool to explain our project.
-
+Improve the chatbot. By adding more test data we could make it a more useful tool to explain our project.
 5.4 Discussion of the Gantt Chart
-The Gantt chart was the team’s planning tool for managing the project from start to finish. It organized the work around the ten steps of the engineering design process and showed us what needed to happen, in what order, and by when.
-The Gantt chart consisted of three phases: the sketching stage, the modeling stage and the building stage. These phases covered the ten steps of the engineering design process.
-In the sketching phase (6-27 October), we identified the need for a water rocket which travelled the furthest distance horizontally and defined the problem clearly. We then searched for existing designs to consider aerodynamics and how to make the rocket travel the furthest. The Gantt chart was useful here as it helped us plan every step, allowing us to identify the constraints of our design, including the 50 cm length limit, safety rules and materials, and the criteria used to judge designs. We finished the phase by developing three alternative solutions.
+The Gantt chart was the team’s planning tool for managing the project from start to finish. It organized the work around the ten steps of the engineering design process. 
+There were three phases: the sketching stage, the modeling stage and the building stage. They covered the ten steps of the engineering design process.
+In the sketching phase (6-27 October), we identified the need for a water rocket that travelled the furthest distance horizontally and defined the problem. We then searched for existing designs to consider aerodynamics and how to make our rocket travel the furthest. The Gantt chart was useful here as it helped us plan every step, allowing us to identify the constraints and the criteria. We finished the first phase by developing three alternative solutions.
 Next came the modeling stage (October 28 to November 3). We analyzed each alternative solution using the criteria matrix and then made a decision on the final model to build.
-The building stage (November 4 to 16)  we described our design in detail. This included our dimensions, materials and the volume water we were going to use. The final step was to communicate the work through a technical report and a final presentation on November 16.
-The Gantt chart also showed the sequence of tasks we needed to complete. We could not start building our design until we completed the criteria matrix, and we could not create our prototype until we had decided on our final concept. Although the chatbot could be created alongside our rocket, we needed further test data to complete it.
-Overall the project was completed on time. Planning, researching and deciding a final concept was all done on time. However, building and testing took longer than expected. This was mainly due to having to rebuild our nose cone.
-The Gantt chart was useful. It showed us what we needed to do and the order we needed to do the tasks in. It also gave the team leader and timekeeper a clear way to share work fairly, and revealed that testing would need extra time. In the future projects, allowing more time for testing is recommended, since issues found during testing will cause redesigns and extra launches. 
+The building stage (November 4 to 16) is when we described our design in detail. This included our dimensions, materials and the volume water we need to use. The final step was to communicate the work through a technical report and a final presentation.
+The Gantt chart also showed the sequence of tasks we needed to complete and helped the team stay on track. Overall the project was completed on time. Planning, researching and deciding a final concept was all done on time. However, building and testing took longer than expected, mainly due to having to rebuild the nose cone.
+In the end, the Gantt chart was a useful tool. It showed us the tasks that needed to be done and the order we needed to do them in. It also gave the team leader a clear way to share work fairly, and revealed that testing would need extra time. In the future projects, allowing more time for testing is recommended, since issues found during testing will cause redesigns and extra launches. 
 
 
 
- 
 REFERENCES
 National Physical Laboratory. (n.d.). Water rocket booklet. https://www.npl.co.uk/skills-learning/outreach/water-rockets/wr_booklet_print 
 NASA Glenn Research Center. (2023, November 19). Rocket stability condition. https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/conditions-for-rocket-stability/ 
- 
+
 APPENDICES
-●	Appendix A – Code of Cooperation
-●	Appendix B – Meeting Minutes (at least 5)
-●	Appendix C – Detailed Calculations
-●	Appendix D – Supplementary Design Drawings and Test Data
-●	Appendix E – Gantt Chart
+Appendix A – Code of Cooperation
+Deadlines: All members will complete their tasks on time. If someone can’t, they tell the team at least 24 hours ahead.
+Decision method: Consensus. Major choices affect everyone’s grade, so every member should be heard. It gives the best decisions and makes sure everyone agrees and supports the outcome. 
+Meetings: We meet weekly. Agendas are prepared beforehand and minutes are recorded and shared within 24 hours.
+Roles: Every member has a role and contributes fairly to the rocket, report, chatbot, and presentation.
+Communication: We use WhatsApp and reply within 12-24 hours.
+Respect: We listen to all ideas, criticize ideas not people, and involve the instructor if a conflict can’t be resolved.
+Safety: We follow all project safety rules, and safety is never up for a vote.
+Accountability: Repeated missed deadlines or meetings lead to a warning, then a discussion with the instructor.
+Agreement: All members have agreed. This code is kept in a shared google document  so everyone can access it.
+
+
+Appendix B – Gantt Chart
+
+
+Appendix C - Supplemental Sketches 
+
+Appendix D – Meeting Minutes
+ Meeting 1 
+
+Date: October 16, 4pm - 5pm
+Present (5): Nijar, Aman, Adam, Ghada, Mohamed
+
+
+Agenda 
+Decide on team name and roles 
+Read through the instructions as a team 
+Plan and brainstorm different water rocket designs
+Do some research
+
+Discussion Points 
+Reviewed the project instructions
+We assigned the following roles: 
+Adam Alchamandi - Timekeeper
+Aman Bhandari - Recorder
+Ghada Abu Naim - Encourager
+Mohamed Coundoul - Team coordinator 
+Nijar Ahmed - Team Leader
+Adam will take the lead on building the chatbot 
+Mohamed is researching background about water rockets and existing designs
+Nijar will search for alternative solutions 
+Ghada proposed Code of Cooperation guidelines for the team to agree on
+
+Future Discussion Points
+Analysis and selection of the best design using criteria matrix
+
+ Meeting 2 
+
+Date: Thursday, October 22, 3:30 pm
+Present (5): Nijar, Aman, Adam, Ghada, Mohamed
+
+
+Agenda 
+Discuss alternative solutions, analyze and decide on the final one. 
+Assign specifications step 
+Progress on the chatbot planning 
+Agree on a timeline, and assign the Gantt Chart construction
+Building and testing october 29 - nov 1 
+
+Discussion Points 
+We reviewed the three alternative designs: two 1.5L bottles taped back to back with 4 triangular fins (Design 1), one 1.5L carbonated bottle with a cardstock nose cone and 3 swept-back trapezoidal fins (Design 2), and a small 500 mL bottle with a cardboard frame (Design 3)
+We rated each design from 1-10 on each criterion, multiplied by the criterion weight, and summed the results
+Design 2 scored highest (815), ahead of Design 1 (790) and Design 3 (565), so Design 2 was chosen as the final design.
+
+Future Discussion Points
+Start building and testing the prototype on Thursday, October 29
+.
+
+ Meeting 3
+
+Date: Tuesday, October 27, 8:00 pm
+Present (4):  Nijar, Aman, Adam, Ghada
+
+
+Agenda 
+Assign roles to complete the progress report
+Complete the Gantt chart using MS Project, explaining the 10 design steps
+Review the final report requirements and start assigning roles
+Update on the AI chatbot progress
+Decide on materials and set a date next week to start building the water rocket
+Discussion Points 
+Ghada will handle the Gantt chart
+We allocated roles to complete the progress report (each member to write one section)
+Adam updated us about progress on the chatbot
+We will assemble the rocket on Nov 5
+
+Future Discussion Points
+Next goal: By Thursday, November 5th, the prototype building and  progress report should be complete. 
+Will we be able to test our rocket? 
+ Meeting 4 
+
+Date: Thursday, November 5th 
+Present (5): Nijar, Aman, Adam, Ghada, Mohamed
+
+
+Agenda 
+Complete the construction
+Finalize the progress report 
+Assign roles for the technical report
+
+Discussion Points 
+We assembled the rocket following our sketch for design 2. 
+We struggled with finding the right weight of clay to use at the tip of the nose, and attaching it properly.
+We followed up on the progress report and technical report status. 
+
+Future Discussion Points
+Discuss test results and future improvements
+Follow up on technical report progress. 
+
+ Meeting 5 
+
+Date: Friday, November 13th
+Present (5): Nijar, Aman, Adam, Ghada, Mohamed
+
+
+Agenda 
+Follow-up on technical report progress
+Assign roles for the presentation
+Test chatbot responses and provide feedback
+
+Discussion Points 
+We agreed that the final revision of the technical report would be complete on Saturday evening.
+We allocated each member 2-4 slides to work on and present, and agreed to meet up on Monday morning to practice our presentation.
+We tested the chatbot and discovered a few questions that it could not answer, and worked on fixing this by providing more training data. 
+Finally, we confirmed that the rocket is ready to be launched on Sunday. 
+
 
 
 

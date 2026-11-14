@@ -1,0 +1,209 @@
+Engineering Design Process 
+(Design, Build, Test, Analyze, Improve, Demonstrate)
+
+
+Identify the Need
+Design and construct a functional, safe, and sustainable water rocket prototype that meets the requirements of the AUS Water Rocket Challenge and demonstrates application of the engineering design process. 
+
+Define the Problem
+Develop a water rocket that achieves the greatest possible horizontal flight distance while complying with competition constraints, maintaining safety, minimizing costs, and using materials efficiently.
+
+Search - Mohamed 
+What is a water rocket
+How does it work 
+What are some common or existing designs for a water rocket
+Cite sources
+
+Constraints
+Safe materials 
+Structure less than 50 cm tall 
+Must travel at least 6 meters
+
+Criteria
+Sustainable and recycled materials
+Creative design
+Low mass
+More water volume
+Aerodynamic structure
+High horizontal flight distance 
+Stability
+Ease of assembly 
+Cost
+
+Alternative solutions
+DESIGN 1: Two 1.5L water bottles taped back to back, with 4 triangular fins 
+4 triangular fins are easier to build and make it more stable but also increase drag and mass
+2 bottles make more volume but also more mass
+Attaching the two bottles without any leaks may be difficult 
+Still water bottles are cheaper but withstand less pressure
+
+DESIGN 2: One large 1.5L carbonated drink bottle, with a cardstock nose cone, and 3 swept-back clipped delta fins. 
+Clipped delta fins take more time to construct but they balance aerodynamics and stability better. 
+1 bottle instead of 2, and 3 fins instead of 4 reduce mass
+Specialized pointed nose cone reduces drag 
+Carbonated drink bottle is made of stronger plastic built to withstand pressure
+
+DESIGN 3: A small 500 liter bottle with a cardboard frame
+Smaller bottle has less mass but holds less water
+Cardboard frames are more creative and aesthetically pleasing but may be harder to construct. 
+Cardboard can be heavier and weaken when wet
+The frame structure is bulky and less aerodynamic. 
+
+
+
+
+
+
+
+
+
+
+
+
+Analyze
+
+Criteria
+Weight (W)
+Alternative Designs (Scores out of 10)
+Design 1
+Design 2
+Design 3 
+Sustainability 
+15
+10
+10
+10
+
+
+
+
+
+
+
+
+
+
+Creative Design
+10
+6
+4
+8
+Low mass
+20
+6
+8
+5
+Water Volume
+15
+9
+7
+4
+Aerodynamics & Stability
+25
+7
+9
+4
+Ease of Assembly
+15
+10
+9
+5 
+TOTAL
+100
+790
+815
+565
+
+
+Each design was rated by the team for each criteria on a scale of 1-10, with 10 being the strongest. Each criteria score was multiplied by its weight and summed to get the total score for each design. 
+
+Decide
+DESIGN 2 scored the highest. It scored the highest on aerodynamics and stability, as well as mass, which are the most important factors for a far horizontal flight distance. It also balanced those factors with sustainability and ease of assembly. 
+
+Specifications
+Materials
+Pepsi 1.25 liter bottle
+Coroplast
+Tape
+Hot glue 
+Cardstock
+Clay
+
+Sketch and isometric drawing:
+
+
+Specs table
+
+Piece
+Material
+Shape
+Measurements
+Pressure vessel
+1.25 L Pepsi PET bottle, used whole with no cuts or joints
+Smooth-sided bottle, nozzle at the rear
+Ø 8.5 cm × 30 cm (est.) · standard neck opening, about 22 mm
+Nose cone
+200–250 gsm cardstock, glued tab, outer wrap of clear packing tape
+Straight cone; the skirt slides over the bottle’s base end
+Base Ø 88 mm · height 150 mm · overlap on bottle 20 mm · flat pattern: sector R 156.3 mm, 101.3° · tab 14 mm
+Nose ballast
+Modeling clay, taped in
+Lump filling the last 4 cm of the cone
+About 30 g to start; adjust after the swing test
+Fins ×3
+5 mm foam board or corrugated plastic; hot glue or epoxy; clear tape over roots and cut edges
+Clipped delta: slanted front edge, straight rear edge at 90° to the root; front rounded, rear tapered over about 20 mm
+Root 90 mm · tip 30 mm · span 60 mm · sweep 45° · 36 cm² each, 108 cm² total · 120° apart
+Whole rocket
+All of the above
+Nozzle at the rear, fins on the straight body, cone at the front
+Height about 43 cm (limit 50) · fin rear edges 9 cm from the nozzle end
+Launch settings
+Water and compressed air
+Launched at about 45°
+Water about 400 mL (one third full) · start near 50 psi and raise in small steps · target at least 6 m
+
+
+Design Choices
+Water Level
+400 mL of water (32% of bottle capacity) provides a starting balance between expelled water and compressed-air volume.
+Different water levels will be tested to determine which produces the greatest horizontal distance.
+Performance
+The 1.25 L Pepsi bottle provides a compact, lightweight design that may reduce drag and overall mass.
+An initial 45° launch angle will be considered to achieve a long horizontal distance, subject to testing and instructor approval.
+Stability
+Three clipped-delta fins, spaced 120° apart near the rear, help maintain a stable flight direction.
+Approximately 30 g of nose ballast may be added to shift the center of mass forward if stability testing indicates it is needed.
+Aerodynamic Efficiency
+The conical nose and smooth bottle body provide a streamlined shape to reduce air resistance.
+Three swept fins aim to provide sufficient stability while limiting additional drag and weight.
+Structural Integrity
+The carbonated-drink PET bottle is designed to withstand beverage carbonation pressure and will remain intact without cuts or modifications.
+Reinforced fin attachments and a tape-covered nose cone improve durability.
+Launch pressure will remain within instructor-approved safety limits.
+Material Efficiency
+Lightweight cardstock and foam board or corrugated plastic minimize unnecessary mass and material consumption.
+The three-fin configuration uses fewer components than a four-fin design while aiming to maintain adequate stability.
+Sustainability
+Reusing a PET beverage bottle and incorporating recycled materials reduces the need for new resources.
+Replaceable external components allow repairs without rebuilding the entire rocket, provided the pressure bottle remains safe to reuse.
+Creativity
+The combination of a custom conical nose and clipped-delta fins creates a distinctive, aerospace-inspired design.
+Precisely measured, customizable components combine functionality, visual appeal, and cost-effective construction.
+
+Communicate
+Reports and presentations 
+
+Test
+(Table of data)
+
+Calculations 
+
+Results, Observations, and Improvements
+Stabilize/protect paper parts with tape
+Possibly cover the whole bottle to make a smooth cylinder
+
+Notes
+Question: should the chatbot development follow the same model and be described in the project report? 
+How to test
+Are we allowed to include AI sketches/drawings?

@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+ NGN 110: Introduction to Engineering and Computing
+Term Project: Progress Report
+November 8th, 2026
+
+
+Team Name: 
+Name
+ID
+Role:
+Adam Alchamandi
+00114384
+Team Coordinator 
+Aman Bhandari
+00116907
+Recorder
+Ghada Abu Naim
+00116199
+Encourager
+Mohamed Coundoul
+00112578
+Timekeeper
+Nijar Ahmed
+00114642
+Team Leader
+
+
+
+
+
+Introduction
+Our team, the AUS Rocketeers, is working on the Water Rocket and AI Chatbot Challenge 2026 for NGN 110. In this project, we are asked to design, build, and test a water rocket and also create a chatbot that can explain our rocket to other people. We bring both parts together in a final report and a presentation. This progress report gives an update on the current state of our project. The sections that follow cover the background of the project, what we have achieved so far, the problems we have run into, the work still ahead, and whether we expect to meet our objectives. It also includes our Gantt chart, which displays the ten steps of the design process.
+
+Background
+Research
+A water rocket uses compressed air and water to produce thrust. When the rocket is released, the compressed air pushes the water out through the bottle opening. The water moves backward, which pushes the rocket forward. As the water leaves, the rocket becomes lighter and the pressure inside the bottle decreases. Eventually when all the water escapes the bottle, there will be no water mass releasing from the rocket to push the rocket forward.
+Several factors affect how far the rocket travels. The amount of water is important because too little water limits the mass pushed out, while too much water makes the rocket heavier and leaves less space for compressed air. The shape and weight of the rocket also affect its performance. A smooth body helps reduce air resistance, while fins help keep the rocket stable during flight. The launch angle affects the horizontal distance as well. These factors need to be considered together, so testing is needed to find what works best for our design.
+
+Project Objectives
+The main objective is to design, build, and test a water rocket that travels the farthest horizontal distance while meeting the competition rules. The rocket must be less than 50 cm long and travel at least 6 meters to qualify. The project also encourages the use of recycled and reusable materials while keeping the rocket safe and reliable.
+Another objective is to follow the engineering design process by comparing ideas, choosing a design, building a prototype, and improving it through testing. Alongside the rocket, we are developing an AI chatbot that can explain our design, the physics behind it, our test results, and the safety procedures. Both parts will be brought together in the final report and presentation.
+
+Achievements
+The team has made significant progress on the project. We assigned a role to each member whether sourcing, designing or researching, and agreed on a code of cooperation to set expectations and responsibilities. From that point forward, we started working more efficiently towards the successful completion of our project. We completed background research on how water rockets work and which factors affect flight distance, and brainstormed three alternative solutions to analyze. After two meetings, we chose our rocket design using a weighted criteria matrix, in which our second design option scored the highest, a design that balances aerodynamic stability with lower mass and ease of construction. We created a detailed sketch with specifications for the chosen design, then we proceeded with the procurement of the materials and building the physical prototype. 
+
+Lastly, we conducted controlled tests to observe the performance of the rocket under the same conditions as the final competition. The tests had two main goals: to determine the optimum water volume for the farthest horizontal flight distance, and to identify any design issues hindering the rocket’s performance. We carried out two tests, with different water levels, and both successfully surpassed the 6m flight requirement. By comparing two tests, we determined that the best water volume was 500 mL because it resulted in a farther horizontal flight distance. Moreover, we observed that our rocket’s flight path was not straight, and we identified improvements to the design of the nose. Additionally, we have started building our AI chatbot, which will contain all the information to evaluate our rocket’s design and performance.
+
+Obstacles Faced
+At the start of our project we had trouble with team coordination. Because we were all new and were still getting to know each other, roles were unclear, which is common at the forming stage during the development of a team. We addressed this by assigning roles for everyone and agreeing on a Code of Cooperation so that responsibilities and expectations were clear from the beginning. 
+
+The next challenge was deciding on the rocket design.  Everyone had different ideas about the rocket, and that led to some disagreement, which is typical of the storming stage. To resolve this we used a weighted criteria matrix. This helped us decide which option was best instead of relying on one person’s view. In the end, Design 2 was the best option. This helped us come to an agreement through collaboration and moved us into the norming stage, with everyone agreeing on one direction.
+
+The biggest ongoing challenge is time. To stay organized and ensure we stayed on time, we created a Gantt chart and set a strict timeline. A few technical uncertainties remain. After testing, we found that the flight path is unstable and changes need to be made to the design to fix this. The bottle, nose cone and fins must all remain sealed and secure under pressure. Another challenge is completing the AI chatbot while finalizing the rocket design. Safety is also an important consideration, as plastic bottles can weaken with repeated use.
+
+Despite these challenges, the team has now reached the performing stage. We have a clear strategy, a shared vision, and defined roles, and we can work on our own and resolve issues in a positive way. Everyone knows their responsibilities, we make decisions through our agreed consensus method, and we work well together as we head toward the competition.
+
+Next Steps
+Now that the prototype and testing are complete, our next steps are to make the necessary improvements and finalize the design. After the testing, we will need to analyze the videos of the test results, make specific measurements, and note down our observations including water leaks, unstable flight, or damage to the rocket parts. Next, we will compile the data into tables to look for any trends and determine what improvements can be made. We will build the next iteration of our rocket with a stronger and more streamlined nose and reinforced fins.  Meanwhile, we will also use this data to develop and refine our AI Chatbot and test it to ensure it can answer any questions about our water rocket design, how it works, and the process of building it. Then, the final stage will be communicating our results and final design through the technical report. As a team, we will assign roles and responsibilities to complete with respect to the report, and communicate the prototyping process and final result as per the project report requirements. 
+
+Assessment of Objectives
+Given the progress we have made up to this point, we expect that we will meet the main objectives of the project. We have used the engineering design process to choose our design, finished building the rocket prototype, and tested it multiple times. We have already verified that the prototype meets the 6m flight distance and 50cm rocket height requirements. Even though further improvements and iterations are still to come, our timeline and Gantt chart will help us stay organized and finish the remaining tasks before the final presentation. In addition, we expect to finish the AI chatbot by relying on the final design and the results of our testing. Even with the time constraints and technical challenges we face, we believe our team is on track to satisfy the project requirements and achieve the competition objectives.
+
+Conclusion
+Overall, our team has made significant progress on the Water Rocket and AI Chatbot Challenge. We have successfully designed, built, and tested the water rocket, while identifying and will now begin making improvements, refining our chatbot, and writing our technical report. Although some work remains, we believe we are on track to meet our project objectives within the given timeline.
+
+
+Gantt Chart
+
+
+
+To keep the project on schedule, we made a Gantt chart in MS Project that runs from October 6 to November 16. It splits the ten design steps into three stages. In the sketching stage from October 6 to 27 we identified the need, defined the problem, did our research on water rocket designs and listed our constraints, criteria and three alternative solutions. In the model stage from October 28 to November 3 we analyzed those alternatives with a weighted criteria matrix and decided on Design 2. The build stage from November 4 to November 16 covers the specifications and communication steps, which means finalizing our rocket’s details, then writing the final report and preparing the presentation. The first two stages are already marked complete, so we are currently in the build stage.
+
+
+
+
