@@ -9,36 +9,46 @@ from google.genai import errors, types
 st.set_page_config(
     page_title="Water Rocket Assistant",
     page_icon="🏔️",
+    initial_sidebar_state="expanded",
 )
 
 st.markdown(
     """
     <style>
     :root {
-        --ink: #292621;
-        --muted: #827c72;
-        --paper: #fbf9f5;
-        --sidebar: #f2efe9;
-        --line: #e8e3da;
-        --accent: #c66b43;
+        --ink: #eeeae2;
+        --muted: #aaa49a;
+        --paper: #191816;
+        --sidebar: #211f1d;
+        --card: #292724;
+        --line: #3a3733;
+        --accent: #e18b64;
     }
 
     .stApp {
-        background: var(--paper);
+        background: var(--paper) !important;
         color: var(--ink);
     }
 
     [data-testid="stHeader"] {
-        background: transparent;
+        background: var(--paper);
     }
 
     [data-testid="stSidebar"] {
-        background: var(--sidebar);
+        background: var(--sidebar) !important;
         border-right: 1px solid var(--line);
     }
 
     [data-testid="stSidebar"] > div:first-child {
-        background: var(--sidebar);
+        background: var(--sidebar) !important;
+    }
+
+    [data-testid="stSidebar"] [data-testid="stVerticalBlockBorderWrapper"] {
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        background: var(--card);
+        padding: 1rem;
+        margin-top: 0.6rem;
     }
 
     [data-testid="stMain"] .block-container {
@@ -92,19 +102,19 @@ st.markdown(
     }
 
     [data-testid="stChatMessageAvatar"] {
-        background: #eee8df;
+        background: #302d29;
         color: var(--accent);
     }
 
     [data-testid="stChatInput"] {
-        border: 1px solid #ded8ce !important;
+        border: 1px solid #48433d !important;
         border-radius: 20px !important;
-        background: #fffdfa !important;
-        box-shadow: 0 8px 28px rgba(62, 49, 35, 0.07);
+        background: #292724 !important;
+        box-shadow: 0 8px 28px rgba(0, 0, 0, 0.2);
     }
 
     [data-testid="stChatInput"] > div {
-        background: #fffdfa !important;
+        background: #292724 !important;
     }
 
     [data-testid="stChatInput"] textarea {
@@ -113,7 +123,7 @@ st.markdown(
     }
 
     [data-testid="stChatInput"] textarea::placeholder {
-        color: #999287;
+        color: #928c82;
     }
 
     [data-testid="stBottom"],
@@ -128,18 +138,32 @@ st.markdown(
     }
 
     [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] {
-        color: #6f695f;
+        color: #b6afa4;
         line-height: 1.6;
     }
 
     [data-testid="stSidebar"] .stButton button {
-        border: 1px solid #ded8ce;
-        border-radius: 10px;
-        background: #faf8f3;
-        color: #514a41;
+        border: 1px solid #49443d;
+        border-radius: 11px;
+        background: #302d29;
+        color: #e7e1d8;
     }
 
     [data-testid="stSidebar"] .stButton button:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+    }
+
+    button[data-testid="stBaseButton-headerNoPadding"] {
+        visibility: visible !important;
+        opacity: 1 !important;
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        background: var(--card);
+        color: var(--ink);
+    }
+
+    button[data-testid="stBaseButton-headerNoPadding"]:hover {
         border-color: var(--accent);
         color: var(--accent);
     }
@@ -175,7 +199,7 @@ st.markdown(
             <path d="m25 21-4 3 5 1M30 15l4 4"
                   fill="none" stroke="#9e553b" stroke-linecap="round"
                   stroke-width="1.5"/>
-            <circle cx="31" cy="12" r="1.3" fill="#fbf9f5"/>
+            <circle cx="31" cy="12" r="1.3" fill="#191816"/>
             <path d="m13 14 1 2m-2-1 2-1"
                   stroke="#d7a45f" stroke-linecap="round"
                   stroke-width="1.4"/>
@@ -296,16 +320,17 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 with st.sidebar:
-    st.header("Project sources")
-    st.write(document_path.name)
-    st.caption(
-        "This version uses an exported document, "
-        "not a live Google Docs connection."
-    )
+    with st.container(border=True):
+        st.header("Project sources")
+        st.write(document_path.name)
+        st.caption(
+            "This version uses an exported document, "
+            "not a live Google Docs connection."
+        )
 
-    if st.button("Clear conversation"):
-        st.session_state.messages = []
-        st.rerun()
+        if st.button("Clear conversation"):
+            st.session_state.messages = []
+            st.rerun()
 
 # Display the conversation so far.
 for message in st.session_state.messages:
