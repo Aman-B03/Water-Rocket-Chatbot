@@ -366,8 +366,8 @@ with st.sidebar:
         for path in document_paths:
             st.write(path.name)
         st.caption(
-            "This version uses an exported document, "
-            "not a live Google Docs connection."
+            "From Team 5 "
+            "For Team 5"
         )
 
         if st.button("Clear conversation"):
