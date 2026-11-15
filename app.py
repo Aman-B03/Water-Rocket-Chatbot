@@ -1,14 +1,14 @@
 from pathlib import Path
 import traceback
-
 import streamlit as st
 from google import genai
 from google.genai import errors, types
 
+svg_content = Path('icon.svg').read_text()
 
 st.set_page_config(
-    page_title="Water Rocket Assistant",
-    page_icon="🏔️",
+    page_title="Saarathi - Water Rocket Assistant",
+    page_icon=svg_content,
     initial_sidebar_state="expanded",
 )
 
@@ -204,7 +204,7 @@ st.markdown(
                   stroke="#d7a45f" stroke-linecap="round"
                   stroke-width="1.4"/>
         </svg>
-        <span>Water Rocket Assistant</span>
+        <span>Saarathi</span>
     </div>
     """,
     unsafe_allow_html=True,
