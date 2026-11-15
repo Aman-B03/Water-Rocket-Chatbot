@@ -369,7 +369,7 @@ Aman Bhandari - Recorder
 Ghada Abu Naim - Encourager
 Mohamed Coundoul - Team coordinator 
 Nijar Ahmed - Team Leader
-Adam will take the lead on building the chatbot 
+Aman will take the lead on building the chatbot 
 Mohamed is researching background about water rockets and existing designs
 Nijar will search for alternative solutions 
 Ghada proposed Code of Cooperation guidelines for the team to agree on
@@ -414,7 +414,7 @@ Decide on materials and set a date next week to start building the water rocket
 Discussion Points 
 Ghada will handle the Gantt chart
 We allocated roles to complete the progress report (each member to write one section)
-Adam updated us about progress on the chatbot
+Aman updated us about progress on the chatbot
 We will assemble the rocket on Nov 5
 
 Future Discussion Points

@@ -18,7 +18,7 @@ Aman Bhandari - Recorder
 Ghada Abu Naim - Encourager
 Mohamed Coundoul - Team coordinator 
 Nijar Ahmed - Team Leader
-Adam will take the lead on building the chatbot 
+Aman will take the lead on building the chatbot 
 Mohamed is researching background about water rockets and existing designs
 Nijar will search for alternative solutions 
 Ghada proposed Code of Cooperation guidelines for the team to agree on
@@ -63,7 +63,7 @@ Decide on materials and set a date next week to start building the water rocket
 Discussion Points 
 Ghada will handle the Gantt chart
 We allocated roles to complete the progress report (each member to write one section)
-Adam updated us about progress on the chatbot
+Aman updated us about progress on the chatbot
 We will assemble the rocket on Nov 5
 
 Future Discussion Points
@@ -105,7 +105,7 @@ Next steps
 [Ghada Abu Naim] Document Obstacles: Write the Obstacles faced section for the progress report. Include any relevant project difficulties or time management challenges.
 [Aman Bhandari] Document Background: Write the Background section for the progress report. Cover project origins and initial research.
 [Adam Alchamand] Assess Objectives: Write the Assessment of objectives section for the progress report. Evaluate project goals and anticipated outcomes.
-[Adam Alchamand] Develop Chatbot: Build the chatbot based on the requirements listed in the shared document. Test the chatbot functionality using the specified presentation questions.
+[Aman Bhandari] Develop Chatbot: Build the chatbot based on the requirements listed in the shared document. Test the chatbot functionality using the specified presentation questions.
 [The group] Book Assembly Room: Book a presentation room at the library for the rocket assembly. Confirm the reservation once a specific date is selected.
 [The group] Consult Instructor: Consult Dr. Aqeel regarding official testing requirements and procedures for the water rocket. Confirm what technical data is expected for the final report.
 
@@ -120,7 +120,7 @@ Library Room Booking and Assembly Plans: Nijar Ahmed suggested assembling the ro
 
 Progress Report Task Allocations and Gantt Chart: Nijar Ahmed led the task assignment for the progress report due on November 8th, which contains five sections plus a Gantt chart. Ghada Abu Naim requested and took responsibility for creating the Gantt chart and handling the obstacles faced section, playfully noting they would fabricate details about time management and team phases. Aman Bhandari volunteered for the background section, Adam Alchamand took the assessment of objectives section, and Nijar Ahmed managed the next steps.
 
-Chatbot Development: Nijar Ahmed inquired about the chatbot development status, which was assigned to Adam Alchamand. Adam Alchamand stated they would work on the chatbot independently, train it by uploading project requirements and specific presentation questions, and notify the group upon completion.
+Chatbot Development: Nijar Ahmed inquired about the chatbot development status, which was assigned to Aman Bhandari. Aman Bhandari stated they would work on the chatbot independently, train it by uploading project requirements and specific presentation questions, and notify the group upon completion.
 
 Technical Report Testing Requirements and Instructor Consultation: Nijar Ahmed and Ghada Abu Naim discussed concerns regarding the technical report's requirement for testing data and trial measurements, noting they had not yet received testing time or conditions. Nijar Ahmed and Aman Bhandari agreed that they must consult the instructor the following day to clarify expectations for the technical report if testing cannot be conducted.
 
