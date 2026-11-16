@@ -267,11 +267,11 @@ Horizontal Distance
 Flight Behavior 
 1
 400 mL
-17 meters
+17 meters approximately
 It flew a short distance and dropped quickly.
 2
 500 mL
-45 meters
+45 meters approximately
 It flew far but veered to the right. Afterwards, the nose cone and fins sustained considerable damage. 
 
 
@@ -284,9 +284,9 @@ Figure 3. Rocket Nose Damage After Trial Impact
 
 Figure 4. Improved Rocket Nose Cone
 
-
 4.6 Final Competition Performance
-Report the official competition distance and compare it with the project objectives and earlier tests where appropriate.
+The final competition performance was greatly successful, as the rocket reached a horizontal distance of 61.68 meters. This performance suggests that the adjustments we made contributed to improving the rocket’s aerodynamics and flight stability. We used 500 mL of water in the final competition, and the flight path was straight. Thus, the rocket successfully fulfilled the project constraints on size and the minimum flight distance of 6 meters, and even surpassed the test trial distances. 
+
 
 CHAPTER 5 – CONCLUSIONS
 5.1 Conclusions
